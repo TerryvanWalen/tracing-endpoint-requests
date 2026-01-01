@@ -31,7 +31,7 @@ http://localhost:3000/service/a
 - een URL om de trace op te halen  
 
 4. Ga vervolgens naar:
-http://localhost:3000/debug/<traceId>
+http://localhost:3000/debug/{traceId}
 
 5. Wat je ziet:
 ```
